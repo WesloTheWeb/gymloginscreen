@@ -1,4 +1,4 @@
-import { getCurrentDate } from '../../utils/dateTimeUtils'; // adjust path as needed
+import { getCurrentDate } from '../../utils/dateTimeUtils';
 import classes from './Footer.module.scss';
 
 const Footer = () => {
